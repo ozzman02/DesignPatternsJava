@@ -11,7 +11,7 @@ public class Preferences {
 		"Implicit super constructor Preferences() is not visible for default constructor. 
 			Must define an explicit constructor"
 	*/
-	private Preferences() {
+	protected Preferences() {
 		
 	}
 	
