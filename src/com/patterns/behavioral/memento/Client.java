@@ -3,6 +3,7 @@ package com.patterns.behavioral.memento;
 import java.awt.geom.Point2D;
 
 public class Client {
+
     public static void main(String[] args) {
 
         ConnectionSolver connectionSolver = new ConnectionSolver();
